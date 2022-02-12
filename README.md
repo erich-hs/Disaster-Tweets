@@ -1,4 +1,5 @@
 <div id="top"></div>
+[![Contributors][contributors-shield]][contributors-url]
 
 <div align="center">
   <h3 align="center">Kaggle NLP with Disaster Tweets</h3>
