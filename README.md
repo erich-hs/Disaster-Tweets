@@ -1,4 +1,5 @@
 <div id="top"></div>
+
 [![Contributors][contributors-shield]][contributors-url]
 
 <div align="center">
@@ -13,5 +14,7 @@ such as Bidirectional Encoder Representations from Transformers (BERT) with Tens
 
 Project in progress.
 
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/erich-hs/Disaster-Tweets.svg?style=for-the-badge
 [contributors-url]: https://github.com/erich-hs/Disaster-Tweets/graphs/contributors
