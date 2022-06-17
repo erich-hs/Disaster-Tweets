@@ -8,11 +8,14 @@
 
 <!-- ABOUT THE REPOSITORY -->
 ## About the Repository
-A repository to try out and keep track of the best techniques for Natural Language Processing with deep neural networks.
-Records from my first implementation of a neural network using Python and NumPy to modern frameworks and architectures
-such as Bidirectional Encoder Representations from Transformers (BERT) with TensorFlow.
+This is a sandbox repository to try out and keep track of the best techniques for Natural Language Processing with deep neural networks.
+Records from my first implementation of a neural network for a NLP classification task using Python and NumPy, to modern frameworks and architectures for sequential and language models.
 
-Project in progress.
+* Low-level MLP with Numpy
+* MLP with Tensorflow and Keras
+* Bi-directional LSTM
+* 1D Separable Convolution
+* Dense classifier with a BERT_L-10_H-256 encoder
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
